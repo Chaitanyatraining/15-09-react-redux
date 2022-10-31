@@ -19,7 +19,7 @@ function Header() {
           <Link to="products" class="nav-link" href="#">Products</Link>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Pricing</a>
+          <Link to="cart" class="nav-link" href="#">Cart</Link>
         </li>
         <li class="nav-item">
           <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
